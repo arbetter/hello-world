@@ -8,7 +8,7 @@ def print_string(string):
 
 string = 'hello world'
 string2 = ''
-string3 = 'it''s Todd'
+string3 = 'it'''s Todd'
 
 print_string(string)
 print_string(string2)
