@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import numpy
+#import numpy
 
 def print_string(string):
     print(string)
